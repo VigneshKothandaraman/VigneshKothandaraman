@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VigneshKothandaraman
-- 👀 I’m interested in ... data analyst
-- 🌱 I’m currently learning ... Python Sql R-Programming Machine learing Power Bi visualization
+- 👀 I’m interested in ... AI and ML
+- 🌱 I’m currently Working ... Python Sql artificial intelligence Machine learing Power Bi visualization
 - 💞️ I’m looking to collaborate on ...Zoho Dell 
 - 📫 How to reach me ...
 
